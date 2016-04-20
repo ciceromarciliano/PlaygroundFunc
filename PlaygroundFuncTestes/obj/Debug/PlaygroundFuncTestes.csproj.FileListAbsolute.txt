@@ -1,0 +1,8 @@
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\bin\Debug\PlaygroundFuncTestes.dll
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\bin\Debug\PlaygroundFuncTestes.pdb
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\bin\Debug\PlaygroundFunc.dll
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\bin\Debug\PlaygroundFunc.pdb
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\obj\Debug\PlaygroundFuncTestes.csprojResolveAssemblyReference.cache
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\obj\Debug\PlaygroundFuncTestes.dll
+C:\Users\cicero.oliveira\Documents\!developer\myprojects\visualstudio\PlaygroundFunc\PlaygroundFuncTestes\obj\Debug\PlaygroundFuncTestes.pdb
